@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Yann Sadowski
 
-<!--
-**yannsadowski/yannsadowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | AI Researcher | PhD Aspirant**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm passionate about advancing artificial intelligence, especially in understanding and modeling time series data. Currently, I’m pursuing research toward a PhD, always exploring novel architectures that redefine how AI perceives sequential information.
+
+I love digging into the latest papers on time-series, especially those applying Transformers, and I'm on the hunt for *the* breakthrough model that will reshape the field.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Python** | **Torch** | **scikit-learn**
+- **Weights & Biases (wandb)**
+- Time-series classification & deep learning
+- Experiment tracking, reproducible research
+
+---
+
+## 🌟 Projects & Publications
+
+- [Time Serie Classifier On Music](https://github.com/yannsadowski/TimeSerieClassifierOnMusic): Exploring LSTM architectures for audio classification.
+- [Medium Article: Learning to Classify Audio with an LSTM](https://medium.com/@sadowski.yann/learning-to-classify-audio-with-an-lstm-6c2366f66c99)
+
+---
+
+## 📚 Featured Links
+
+- [LinkedIn](https://www.linkedin.com/in/yann-sadowski)
+- [Medium](https://medium.com/@sadowski.yann)
+- [Google Scholar](https://scholar.google.fr/citations?user=CpYWrxkAAAAJ&hl=en)
+
+---
+
+## ⚡ Fun Facts
+
+- Volleyball enthusiast 🏐
+- Always excited to collaborate on pushing the boundaries of AI for time series analysis
+- Enjoys reading cutting-edge research—especially on Transformers for time-series!
+
+---
+
+> *Let’s connect and share ideas on the future of AI and time series!*
