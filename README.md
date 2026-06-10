@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Yann Sadowski
 
-**Data Scientist | AI Researcher | PhD Aspirant**
+**Data Scientist | ML PhD Student**
 
 ---
 
 ## 🚀 About Me
 
-I'm passionate about advancing artificial intelligence, especially in understanding and modeling time series data. Currently, I’m pursuing research toward a PhD, always exploring novel architectures that redefine how AI perceives sequential information.
+I'm passionate about advancing artificial intelligence, especially in understanding and modeling time series data. Currently, I’m doing a PhD in ML, always exploring novel architectures that redefine how AI perceives sequential information.
 
-I love digging into the latest papers on time-series, especially those applying Transformers, and I'm on the hunt for *the* breakthrough model that will reshape the field.
+I love digging into the latest papers on time-series, especially those applying Transformers.
 
 ---
 
 ## 🛠️ Skills & Tools
 
 - **Python** | **Torch** | **scikit-learn**
-- **Weights & Biases (wandb)**
+- **trackio**
 - Time-series classification & deep learning
 - Experiment tracking, reproducible research
 
